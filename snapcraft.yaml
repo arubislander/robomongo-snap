@@ -4,6 +4,7 @@ summary: Robo 3T
 description: Native and cross-platform MongoDB manager
 confinement: strict
 grade: stable
+architecture: [amd64]
 
 apps:
     robo3t:
